@@ -21,4 +21,4 @@ You can send me message with :<br>
 [![email : duet.venceslas@orange.fr](https://img.shields.io/badge/-duet%2Evenceslas%40orange%2Efr-000000?style=for-the-badge&logo=Mail.ru&logoColor=white)](duet.venceslas@orange.fr)
 ![discord : citorva#1234](https://img.shields.io/badge/-citorva%231234-000000?style=for-the-badge&logo=discord&logoColor=white)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=citorva&hide=stars&theme=dark&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=citorva&hide=stars&theme=light&show_icons=true)
