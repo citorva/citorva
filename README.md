@@ -11,7 +11,8 @@ I've mainly worked on :
   
 #### 📚 Main languages
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=Node.js&logoColor=333333)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333333)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white)
 <br>![My main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=citorva&hide=stars&theme=light&show_icons=true&layout=compact)
