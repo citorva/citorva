@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Venceslas Duet (citorva)**.
 
-[![website: citorva.github.io](https://img.shields.io/badge/-citorva%2Egithub%2Eio-000000?style=for-the-badge&logo=Mail.ru&logoColor=white)](https://citorva.github.io)
+[![website: citorva.github.io](https://img.shields.io/badge/-citorva%2Egithub%2Eio-000000?style=for-the-badge&logoColor=white)](https://citorva.github.io)
 
 #### 📖 School
 I will be a student in the ISIMA school for the next academic year (2021-2022) after three years of CPGE.
